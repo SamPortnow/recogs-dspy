@@ -1,0 +1,300 @@
+Liam hoped that a box was burned by a girl .	Liam ( 10 ) ; box ( 14 ) ; girl ( 29 ) ; hope ( 32 ) AND agent ( 32 , 10 ) AND ccomp ( 32 , 41 ) AND burn ( 41 ) AND theme ( 41 , 14 ) AND agent ( 41 , 29 )	in_distribution
+The donkey lended the cookie to a mother .	* donkey ( 7 ) ; * cookie ( 6 ) ; mother ( 22 ) ; lend ( 37 ) AND agent ( 37 , 7 ) AND theme ( 37 , 6 ) AND recipient ( 37 , 22 )	in_distribution
+A melon was given to a girl by the guard .	melon ( 20 ) ; girl ( 0 ) ; * guard ( 41 ) ; give ( 51 ) AND theme ( 51 , 20 ) AND recipient ( 51 , 0 ) AND agent ( 51 , 41 )	in_distribution
+A donut was given to a butterfly .	donut ( 1 ) ; butterfly ( 3 ) ; give ( 11 ) AND theme ( 11 , 1 ) AND recipient ( 11 , 3 )	in_distribution
+A rose was mailed to Isabella .	rose ( 46 ) ; Isabella ( 6 ) ; mail ( 27 ) AND theme ( 27 , 46 ) AND recipient ( 27 , 6 )	in_distribution
+The girl offered the weapon beside a machine to a chicken .	* girl ( 32 ) ; * weapon ( 27 ) ; machine ( 4 ) ; chicken ( 30 ) ; offer ( 13 ) AND agent ( 13 , 32 ) AND theme ( 13 , 27 ) AND recipient ( 13 , 30 ) AND nmod . beside ( 27 , 4 )	in_distribution
+A donut was touched by Emma .	donut ( 21 ) ; Emma ( 20 ) ; touch ( 52 ) AND theme ( 52 , 21 ) AND agent ( 52 , 20 )	in_distribution
+Liam painted a box on a table beside the chair .	Liam ( 21 ) ; box ( 11 ) ; table ( 52 ) ; * chair ( 45 ) ; paint ( 51 ) AND agent ( 51 , 21 ) AND theme ( 51 , 11 ) AND nmod . on ( 11 , 52 ) AND nmod . beside ( 52 , 45 )	in_distribution
+Emma ate a hammer .	Emma ( 46 ) ; hammer ( 0 ) ; eat ( 21 ) AND agent ( 21 , 46 ) AND theme ( 21 , 0 )	in_distribution
+A drink was juggled .	drink ( 13 ) ; juggle ( 52 ) AND theme ( 52 , 13 )	in_distribution
+Liam liked that the cake was tossed by Ava .	Liam ( 19 ) ; * cake ( 52 ) ; Ava ( 27 ) ; like ( 32 ) AND agent ( 32 , 19 ) AND ccomp ( 32 , 6 ) AND toss ( 6 ) AND theme ( 6 , 52 ) AND agent ( 6 , 27 )	in_distribution
+The box was found by Hannah .	* box ( 8 ) ; Hannah ( 24 ) ; find ( 50 ) AND theme ( 50 , 8 ) AND agent ( 50 , 24 )	in_distribution
+Ava forwarded a chalk to a girl .	Ava ( 8 ) ; chalk ( 12 ) ; girl ( 51 ) ; forward ( 42 ) AND agent ( 42 , 8 ) AND theme ( 42 , 12 ) AND recipient ( 42 , 51 )	in_distribution
+Mason liked that the cookie was hunted .	Mason ( 21 ) ; * cookie ( 12 ) ; like ( 25 ) AND agent ( 25 , 21 ) AND ccomp ( 25 , 1 ) AND hunt ( 1 ) AND theme ( 1 , 12 )	in_distribution
+A monkey ran .	monkey ( 29 ) ; run ( 27 ) AND agent ( 27 , 29 )	in_distribution
+The hamburger was worshipped .	* hamburger ( 6 ) ; worship ( 30 ) AND theme ( 30 , 6 )	in_distribution
+Emma preferred to giggle .	Emma ( 48 ) ; prefer ( 25 ) AND agent ( 25 , 48 ) AND xcomp ( 25 , 31 ) AND giggle ( 31 ) AND agent ( 31 , 48 )	in_distribution
+Emma gave the girl a cake .	Emma ( 52 ) ; * girl ( 25 ) ; cake ( 56 ) ; give ( 50 ) AND agent ( 50 , 52 ) AND recipient ( 50 , 25 ) AND theme ( 50 , 56 )	in_distribution
+Ryan sold a scientist a cake .	Ryan ( 4 ) ; scientist ( 59 ) ; cake ( 28 ) ; sell ( 23 ) AND agent ( 23 , 4 ) AND recipient ( 23 , 59 ) AND theme ( 23 , 28 )	in_distribution
+Liam was slipped a cloud in the room by the chicken .	Liam ( 1 ) ; cloud ( 23 ) ; * room ( 31 ) ; * chicken ( 48 ) ; slip ( 10 ) AND recipient ( 10 , 1 ) AND theme ( 10 , 23 ) AND agent ( 10 , 48 ) AND nmod . in ( 23 , 31 )	in_distribution
+The drink was split by Leo .	* drink ( 39 ) ; Leo ( 45 ) ; split ( 31 ) AND theme ( 31 , 39 ) AND agent ( 31 , 45 )	in_distribution
+A creature packed a girl .	creature ( 9 ) ; girl ( 35 ) ; pack ( 17 ) AND agent ( 17 , 9 ) AND theme ( 17 , 35 )	in_distribution
+The teacher returned a drink on a stage to Emma .	* teacher ( 54 ) ; drink ( 50 ) ; stage ( 10 ) ; Emma ( 5 ) ; return ( 16 ) AND agent ( 16 , 54 ) AND theme ( 16 , 50 ) AND recipient ( 16 , 5 ) AND nmod . on ( 50 , 10 )	in_distribution
+The cake was juggled by the boy .	* cake ( 43 ) ; * boy ( 4 ) ; juggle ( 49 ) AND theme ( 49 , 43 ) AND agent ( 49 , 4 )	in_distribution
+The coach poked a hat .	* coach ( 13 ) ; hat ( 38 ) ; poke ( 49 ) AND agent ( 49 , 13 ) AND theme ( 49 , 38 )	in_distribution
+A knife was floated by the girl .	knife ( 4 ) ; * girl ( 32 ) ; float ( 53 ) AND theme ( 53 , 4 ) AND agent ( 53 , 32 )	in_distribution
+Emma hoped to run .	Emma ( 27 ) ; hope ( 7 ) AND agent ( 7 , 27 ) AND xcomp ( 7 , 54 ) AND run ( 54 ) AND agent ( 54 , 27 )	in_distribution
+The donut was missed by Olivia .	* donut ( 18 ) ; Olivia ( 45 ) ; miss ( 14 ) AND theme ( 14 , 18 ) AND agent ( 14 , 45 )	in_distribution
+The crystal was rented to Amelia .	* crystal ( 34 ) ; Amelia ( 27 ) ; rent ( 14 ) AND theme ( 14 , 34 ) AND recipient ( 14 , 27 )	in_distribution
+A cookie was sketched by a cow .	cookie ( 20 ) ; cow ( 15 ) ; sketch ( 48 ) AND theme ( 48 , 20 ) AND agent ( 48 , 15 )	in_distribution
+A cat was promised a ball by Emma .	cat ( 54 ) ; ball ( 47 ) ; Emma ( 16 ) ; promise ( 13 ) AND recipient ( 13 , 54 ) AND theme ( 13 , 47 ) AND agent ( 13 , 16 )	in_distribution
+Emma believed that the sheep tried to run .	Emma ( 17 ) ; * sheep ( 50 ) ; believe ( 53 ) AND agent ( 53 , 17 ) AND ccomp ( 53 , 45 ) AND try ( 45 ) AND agent ( 45 , 50 ) AND xcomp ( 45 , 32 ) AND run ( 32 ) AND agent ( 32 , 50 )	in_distribution
+The pumpkin was shortened .	* pumpkin ( 5 ) ; shorten ( 22 ) AND theme ( 22 , 5 )	in_distribution
+The baby was forwarded a cake by the boy .	* baby ( 10 ) ; cake ( 39 ) ; * boy ( 52 ) ; forward ( 41 ) AND recipient ( 41 , 10 ) AND theme ( 41 , 39 ) AND agent ( 41 , 52 )	in_distribution
+The kitty posted the doll to Henry .	* kitty ( 59 ) ; * doll ( 15 ) ; Henry ( 45 ) ; post ( 53 ) AND agent ( 53 , 59 ) AND theme ( 53 , 15 ) AND recipient ( 53 , 45 )	in_distribution
+The monster wanted to eat .	* monster ( 36 ) ; want ( 16 ) AND agent ( 16 , 36 ) AND xcomp ( 16 , 30 ) AND eat ( 30 ) AND agent ( 30 , 36 )	in_distribution
+Elijah lended the raisin on the bed to a child .	Elijah ( 50 ) ; * raisin ( 43 ) ; * bed ( 21 ) ; child ( 36 ) ; lend ( 22 ) AND agent ( 22 , 50 ) AND theme ( 22 , 43 ) AND recipient ( 22 , 36 ) AND nmod . on ( 43 , 21 )	in_distribution
+Ethan slept .	Ethan ( 3 ) ; sleep ( 38 ) AND agent ( 38 , 3 )	in_distribution
+A donut was given to William by a boy .	donut ( 52 ) ; William ( 39 ) ; boy ( 59 ) ; give ( 48 ) AND theme ( 48 , 52 ) AND recipient ( 48 , 39 ) AND agent ( 48 , 59 )	in_distribution
+Ella wanted to cook .	Ella ( 39 ) ; want ( 32 ) AND agent ( 32 , 39 ) AND xcomp ( 32 , 6 ) AND cook ( 6 ) AND agent ( 6 , 39 )	in_distribution
+The bear believed that a donut was valued by Mia .	* bear ( 51 ) ; donut ( 9 ) ; Mia ( 34 ) ; believe ( 33 ) AND agent ( 33 , 51 ) AND ccomp ( 33 , 4 ) AND value ( 4 ) AND theme ( 4 , 9 ) AND agent ( 4 , 34 )	in_distribution
+The raisin was loaned to Amelia by the zebra .	* raisin ( 44 ) ; Amelia ( 20 ) ; * zebra ( 29 ) ; loan ( 14 ) AND theme ( 14 , 44 ) AND recipient ( 14 , 20 ) AND agent ( 14 , 29 )	in_distribution
+Lucas liked that a donut was eaten .	Lucas ( 45 ) ; donut ( 4 ) ; like ( 30 ) AND agent ( 30 , 45 ) AND ccomp ( 30 , 31 ) AND eat ( 31 ) AND theme ( 31 , 4 )	in_distribution
+A box was liked by a chicken .	box ( 46 ) ; chicken ( 47 ) ; like ( 10 ) AND theme ( 10 , 46 ) AND agent ( 10 , 47 )	in_distribution
+Sebastian gave a rose beside a stage to Mason .	Sebastian ( 39 ) ; rose ( 46 ) ; stage ( 13 ) ; Mason ( 24 ) ; give ( 53 ) AND agent ( 53 , 39 ) AND theme ( 53 , 46 ) AND recipient ( 53 , 24 ) AND nmod . beside ( 46 , 13 )	in_distribution
+The cake was sold to a child by the cat .	* cake ( 17 ) ; child ( 21 ) ; * cat ( 9 ) ; sell ( 59 ) AND theme ( 59 , 17 ) AND recipient ( 59 , 21 ) AND agent ( 59 , 9 )	in_distribution
+A cat helped a toy .	cat ( 13 ) ; toy ( 43 ) ; help ( 11 ) AND agent ( 11 , 13 ) AND theme ( 11 , 43 )	in_distribution
+Joshua heard a donut in a room .	Joshua ( 45 ) ; donut ( 0 ) ; room ( 50 ) ; hear ( 12 ) AND agent ( 12 , 45 ) AND theme ( 12 , 0 ) AND nmod . in ( 0 , 50 )	in_distribution
+A chalk was given to the baby by the lion .	chalk ( 19 ) ; * baby ( 39 ) ; * lion ( 32 ) ; give ( 54 ) AND theme ( 54 , 19 ) AND recipient ( 54 , 39 ) AND agent ( 54 , 32 )	in_distribution
+The monkey liked that Emma ate the cake .	* monkey ( 2 ) ; Emma ( 0 ) ; * cake ( 25 ) ; like ( 54 ) AND agent ( 54 , 2 ) AND ccomp ( 54 , 17 ) AND eat ( 17 ) AND agent ( 17 , 0 ) AND theme ( 17 , 25 )	in_distribution
+The mouse grew Jacob .	* mouse ( 32 ) ; Jacob ( 4 ) ; grow ( 26 ) AND agent ( 26 , 32 ) AND theme ( 26 , 4 )	in_distribution
+The girl wanted to run .	* girl ( 38 ) ; want ( 41 ) AND agent ( 41 , 38 ) AND xcomp ( 41 , 50 ) AND run ( 50 ) AND agent ( 50 , 38 )	in_distribution
+The lollipop was given to Avery .	* lollipop ( 19 ) ; Avery ( 51 ) ; give ( 59 ) AND theme ( 59 , 19 ) AND recipient ( 59 , 51 )	in_distribution
+A drink improved .	drink ( 12 ) ; improve ( 9 ) AND theme ( 9 , 12 )	in_distribution
+The hero was returned the shoe in the car by a manager .	* hero ( 31 ) ; * shoe ( 11 ) ; * car ( 59 ) ; manager ( 16 ) ; return ( 8 ) AND recipient ( 8 , 31 ) AND theme ( 8 , 11 ) AND agent ( 8 , 16 ) AND nmod . in ( 11 , 59 )	in_distribution
+Liam held the boy beside a table .	Liam ( 38 ) ; * boy ( 41 ) ; table ( 13 ) ; hold ( 9 ) AND agent ( 9 , 38 ) AND theme ( 9 , 41 ) AND nmod . beside ( 41 , 13 )	in_distribution
+Liam lended the cake to Camila .	Liam ( 24 ) ; * cake ( 56 ) ; Camila ( 19 ) ; lend ( 40 ) AND agent ( 40 , 24 ) AND theme ( 40 , 56 ) AND recipient ( 40 , 19 )	in_distribution
+Joseph wired the cake to a baby .	Joseph ( 39 ) ; * cake ( 31 ) ; baby ( 56 ) ; wire ( 2 ) AND agent ( 2 , 39 ) AND theme ( 2 , 31 ) AND recipient ( 2 , 56 )	in_distribution
+A baby hoped that a mouse intended to clean .	baby ( 48 ) ; mouse ( 59 ) ; hope ( 44 ) AND agent ( 44 , 48 ) AND ccomp ( 44 , 27 ) AND intend ( 27 ) AND agent ( 27 , 59 ) AND xcomp ( 27 , 25 ) AND clean ( 25 ) AND agent ( 25 , 59 )	in_distribution
+The citizen rolled a dog .	* citizen ( 22 ) ; dog ( 9 ) ; roll ( 6 ) AND agent ( 6 , 22 ) AND theme ( 6 , 9 )	in_distribution
+The buyer wired the hero the block .	* buyer ( 15 ) ; * hero ( 12 ) ; * block ( 1 ) ; wire ( 24 ) AND agent ( 24 , 15 ) AND recipient ( 24 , 12 ) AND theme ( 24 , 1 )	in_distribution
+The student poked the cake on the deck .	* student ( 29 ) ; * cake ( 24 ) ; * deck ( 2 ) ; poke ( 42 ) AND agent ( 42 , 29 ) AND theme ( 42 , 24 ) AND nmod . on ( 24 , 2 )	in_distribution
+A pancake was handed to Liam .	pancake ( 29 ) ; Liam ( 49 ) ; hand ( 1 ) AND theme ( 1 , 29 ) AND recipient ( 1 , 49 )	in_distribution
+A girl lended the cow the raisin in the vessel .	girl ( 42 ) ; * cow ( 11 ) ; * raisin ( 53 ) ; * vessel ( 0 ) ; lend ( 44 ) AND agent ( 44 , 42 ) AND recipient ( 44 , 11 ) AND theme ( 44 , 53 ) AND nmod . in ( 53 , 0 )	in_distribution
+A melon was eaten by a girl .	melon ( 19 ) ; girl ( 5 ) ; eat ( 9 ) AND theme ( 9 , 19 ) AND agent ( 9 , 5 )	in_distribution
+The girl was lended the rose .	* girl ( 44 ) ; * rose ( 56 ) ; lend ( 27 ) AND recipient ( 27 , 44 ) AND theme ( 27 , 56 )	in_distribution
+A lion shortened a cake in the house .	lion ( 27 ) ; cake ( 22 ) ; * house ( 42 ) ; shorten ( 54 ) AND agent ( 54 , 27 ) AND theme ( 54 , 22 ) AND nmod . in ( 22 , 42 )	in_distribution
+A cake was wired to Emma by the girl .	cake ( 29 ) ; Emma ( 25 ) ; * girl ( 4 ) ; wire ( 46 ) AND theme ( 46 , 29 ) AND recipient ( 46 , 25 ) AND agent ( 46 , 4 )	in_distribution
+The guest fed the raisin on the table to Michael .	* guest ( 29 ) ; * raisin ( 8 ) ; * table ( 59 ) ; Michael ( 24 ) ; feed ( 1 ) AND agent ( 1 , 29 ) AND theme ( 1 , 8 ) AND recipient ( 1 , 24 ) AND nmod . on ( 8 , 59 )	in_distribution
+A girl was brought the knife on a pad .	girl ( 30 ) ; * knife ( 49 ) ; pad ( 47 ) ; bring ( 2 ) AND recipient ( 2 , 30 ) AND theme ( 2 , 49 ) AND nmod . on ( 49 , 47 )	in_distribution
+Olivia rented the cookie to the sheep .	Olivia ( 30 ) ; * cookie ( 53 ) ; * sheep ( 56 ) ; rent ( 16 ) AND agent ( 16 , 30 ) AND theme ( 16 , 53 ) AND recipient ( 16 , 56 )	in_distribution
+Liam gave Emma a box in the garden .	Liam ( 45 ) ; Emma ( 38 ) ; box ( 42 ) ; * garden ( 2 ) ; give ( 19 ) AND agent ( 19 , 45 ) AND recipient ( 19 , 38 ) AND theme ( 19 , 42 ) AND nmod . in ( 42 , 2 )	in_distribution
+Olivia valued that the cake was helped by Emma .	Olivia ( 33 ) ; * cake ( 12 ) ; Emma ( 3 ) ; value ( 59 ) AND agent ( 59 , 33 ) AND ccomp ( 59 , 29 ) AND help ( 29 ) AND theme ( 29 , 12 ) AND agent ( 29 , 3 )	in_distribution
+A teacher gave the cake to Liam .	teacher ( 56 ) ; * cake ( 25 ) ; Liam ( 44 ) ; give ( 24 ) AND agent ( 24 , 56 ) AND theme ( 24 , 25 ) AND recipient ( 24 , 44 )	in_distribution
+Emma froze the rose .	Emma ( 5 ) ; * rose ( 48 ) ; freeze ( 4 ) AND agent ( 4 , 5 ) AND theme ( 4 , 48 )	in_distribution
+The cookie was fed to a dog .	* cookie ( 0 ) ; dog ( 20 ) ; feed ( 35 ) AND theme ( 35 , 0 ) AND recipient ( 35 , 20 )	in_distribution
+A child was given a box on a stool by the boy .	child ( 26 ) ; box ( 30 ) ; stool ( 22 ) ; * boy ( 14 ) ; give ( 29 ) AND recipient ( 29 , 26 ) AND theme ( 29 , 30 ) AND agent ( 29 , 14 ) AND nmod . on ( 30 , 22 )	in_distribution
+A donut broke .	donut ( 27 ) ; break ( 19 ) AND theme ( 19 , 27 )	in_distribution
+The jar was found by Noah .	* jar ( 48 ) ; Noah ( 0 ) ; find ( 2 ) AND theme ( 2 , 48 ) AND agent ( 2 , 0 )	in_distribution
+Evelyn doubled a penny on the bed .	Evelyn ( 2 ) ; penny ( 52 ) ; * bed ( 49 ) ; double ( 50 ) AND agent ( 50 , 2 ) AND theme ( 50 , 52 ) AND nmod . on ( 52 , 49 )	in_distribution
+A girl was given a fruit .	girl ( 40 ) ; fruit ( 28 ) ; give ( 3 ) AND recipient ( 3 , 40 ) AND theme ( 3 , 28 )	in_distribution
+A girl drew the boy in a car .	girl ( 48 ) ; * boy ( 0 ) ; car ( 29 ) ; draw ( 37 ) AND agent ( 37 , 48 ) AND theme ( 37 , 0 ) AND nmod . in ( 0 , 29 )	in_distribution
+Olivia declared that Anthony declared that a ball was liked by the horse .	Olivia ( 23 ) ; Anthony ( 42 ) ; ball ( 1 ) ; * horse ( 51 ) ; declare ( 11 ) AND agent ( 11 , 23 ) AND ccomp ( 11 , 48 ) AND declare ( 48 ) AND agent ( 48 , 42 ) AND ccomp ( 48 , 21 ) AND like ( 21 ) AND theme ( 21 , 1 ) AND agent ( 21 , 51 )	in_distribution
+A boy expected that a drink broke .	boy ( 51 ) ; drink ( 54 ) ; expect ( 18 ) AND agent ( 18 , 51 ) AND ccomp ( 18 , 31 ) AND break ( 31 ) AND theme ( 31 , 54 )	in_distribution
+Liam lended a raisin to a guy .	Liam ( 21 ) ; raisin ( 52 ) ; guy ( 14 ) ; lend ( 26 ) AND agent ( 26 , 21 ) AND theme ( 26 , 52 ) AND recipient ( 26 , 14 )	in_distribution
+The crayon was lended to Noah by Ava .	* crayon ( 38 ) ; Noah ( 22 ) ; Ava ( 0 ) ; lend ( 14 ) AND theme ( 14 , 38 ) AND recipient ( 14 , 22 ) AND agent ( 14 , 0 )	in_distribution
+Emma froze the box .	Emma ( 24 ) ; * box ( 13 ) ; freeze ( 56 ) AND agent ( 56 , 24 ) AND theme ( 56 , 13 )	in_distribution
+A girl gave the boy the cake beside the stage .	girl ( 20 ) ; * boy ( 47 ) ; * cake ( 7 ) ; * stage ( 54 ) ; give ( 31 ) AND agent ( 31 , 20 ) AND recipient ( 31 , 47 ) AND theme ( 31 , 7 ) AND nmod . beside ( 7 , 54 )	in_distribution
+The melon collapsed .	* melon ( 30 ) ; collapse ( 48 ) AND theme ( 48 , 30 )	in_distribution
+Benjamin wanted to read .	Benjamin ( 6 ) ; want ( 0 ) AND agent ( 0 , 6 ) AND xcomp ( 0 , 59 ) AND read ( 59 ) AND agent ( 59 , 6 )	in_distribution
+The cake was dusted by Emma .	* cake ( 43 ) ; Emma ( 18 ) ; dust ( 48 ) AND theme ( 48 , 43 ) AND agent ( 48 , 18 )	in_distribution
+The cake was sold to Harper .	* cake ( 35 ) ; Harper ( 25 ) ; sell ( 38 ) AND theme ( 38 , 35 ) AND recipient ( 38 , 25 )	in_distribution
+Hannah cooked a raisin in the house .	Hannah ( 2 ) ; raisin ( 50 ) ; * house ( 6 ) ; cook ( 27 ) AND agent ( 27 , 2 ) AND theme ( 27 , 50 ) AND nmod . in ( 50 , 6 )	in_distribution
+A purse was cooked by the girl .	purse ( 51 ) ; * girl ( 59 ) ; cook ( 3 ) AND theme ( 3 , 51 ) AND agent ( 3 , 59 )	in_distribution
+Sebastian passed the rose on a bed to Hazel .	Sebastian ( 51 ) ; * rose ( 15 ) ; bed ( 10 ) ; Hazel ( 40 ) ; pass ( 59 ) AND agent ( 59 , 51 ) AND theme ( 59 , 15 ) AND recipient ( 59 , 40 ) AND nmod . on ( 15 , 10 )	in_distribution
+Olivia liked that the donut crumpled .	Olivia ( 22 ) ; * donut ( 5 ) ; like ( 45 ) AND agent ( 45 , 22 ) AND ccomp ( 45 , 50 ) AND crumple ( 50 ) AND theme ( 50 , 5 )	in_distribution
+The fish respected that a drink was helped .	* fish ( 11 ) ; drink ( 9 ) ; respect ( 10 ) AND agent ( 10 , 11 ) AND ccomp ( 10 , 23 ) AND help ( 23 ) AND theme ( 23 , 9 )	in_distribution
+Liam forwarded a dog a donut beside a bag .	Liam ( 36 ) ; dog ( 18 ) ; donut ( 52 ) ; bag ( 46 ) ; forward ( 15 ) AND agent ( 15 , 36 ) AND recipient ( 15 , 18 ) AND theme ( 15 , 52 ) AND nmod . beside ( 52 , 46 )	in_distribution
+A cat brought a cake to a girl .	cat ( 2 ) ; cake ( 54 ) ; girl ( 32 ) ; bring ( 13 ) AND agent ( 13 , 2 ) AND theme ( 13 , 54 ) AND recipient ( 13 , 32 )	in_distribution
+Olivia needed to walk .	Olivia ( 2 ) ; need ( 1 ) AND agent ( 1 , 2 ) AND xcomp ( 1 , 21 ) AND walk ( 21 ) AND agent ( 21 , 2 )	in_distribution
+Sophia frowned .	Sophia ( 51 ) ; frown ( 56 ) AND agent ( 56 , 51 )	in_distribution
+A bear enlarged .	bear ( 36 ) ; enlarge ( 47 ) AND theme ( 47 , 36 )	in_distribution
+Michael enjoyed to eat .	Michael ( 30 ) ; enjoy ( 49 ) AND agent ( 49 , 30 ) AND xcomp ( 49 , 47 ) AND eat ( 47 ) AND agent ( 47 , 30 )	in_distribution
+The teacher sneezed .	* teacher ( 43 ) ; sneeze ( 56 ) AND agent ( 56 , 43 )	in_distribution
+The cake was loaned to Jackson .	* cake ( 50 ) ; Jackson ( 59 ) ; loan ( 3 ) AND theme ( 3 , 50 ) AND recipient ( 3 , 59 )	in_distribution
+The lion fed a girl the cake beside a trophy .	* lion ( 29 ) ; girl ( 0 ) ; * cake ( 35 ) ; trophy ( 31 ) ; feed ( 56 ) AND agent ( 56 , 29 ) AND recipient ( 56 , 0 ) AND theme ( 56 , 35 ) AND nmod . beside ( 35 , 31 )	in_distribution
+The penny was shortened by Liam .	* penny ( 18 ) ; Liam ( 14 ) ; shorten ( 45 ) AND theme ( 45 , 18 ) AND agent ( 45 , 14 )	in_distribution
+Olivia meant that a towel was liked by a mouse .	Olivia ( 20 ) ; towel ( 33 ) ; mouse ( 14 ) ; mean ( 51 ) AND agent ( 51 , 20 ) AND ccomp ( 51 , 27 ) AND like ( 27 ) AND theme ( 27 , 33 ) AND agent ( 27 , 14 )	in_distribution
+A chalk was helped by the boy .	chalk ( 23 ) ; * boy ( 30 ) ; help ( 22 ) AND theme ( 22 , 23 ) AND agent ( 22 , 30 )	in_distribution
+The boy was given a cake beside a bag by Skylar .	* boy ( 20 ) ; cake ( 12 ) ; bag ( 31 ) ; Skylar ( 6 ) ; give ( 8 ) AND recipient ( 8 , 20 ) AND theme ( 8 , 12 ) AND agent ( 8 , 6 ) AND nmod . beside ( 12 , 31 )	in_distribution
+Isabella wanted to nap .	Isabella ( 8 ) ; want ( 40 ) AND agent ( 40 , 8 ) AND xcomp ( 40 , 4 ) AND nap ( 4 ) AND agent ( 4 , 8 )	in_distribution
+Abigail wanted to giggle .	Abigail ( 30 ) ; want ( 59 ) AND agent ( 59 , 30 ) AND xcomp ( 59 , 51 ) AND giggle ( 51 ) AND agent ( 51 , 30 )	in_distribution
+The pig heard .	* pig ( 34 ) ; hear ( 16 ) AND agent ( 16 , 34 )	in_distribution
+A liver was appreciated by James .	liver ( 18 ) ; James ( 44 ) ; appreciate ( 22 ) AND theme ( 22 , 18 ) AND agent ( 22 , 44 )	in_distribution
+A dog ate a box on the stage .	dog ( 30 ) ; box ( 34 ) ; * stage ( 5 ) ; eat ( 0 ) AND agent ( 0 , 30 ) AND theme ( 0 , 34 ) AND nmod . on ( 34 , 5 )	in_distribution
+Liam was sold the needle .	Liam ( 18 ) ; * needle ( 54 ) ; sell ( 42 ) AND recipient ( 42 , 18 ) AND theme ( 42 , 54 )	in_distribution
+The donut was known .	* donut ( 15 ) ; know ( 39 ) AND theme ( 39 , 15 )	in_distribution
+A cat was returned a rose .	cat ( 47 ) ; rose ( 30 ) ; return ( 50 ) AND recipient ( 50 , 47 ) AND theme ( 50 , 30 )	in_distribution
+Emma poked a cake .	Emma ( 27 ) ; cake ( 37 ) ; poke ( 40 ) AND agent ( 40 , 27 ) AND theme ( 40 , 37 )	in_distribution
+The rose was fed to a boy by Ava .	* rose ( 26 ) ; boy ( 8 ) ; Ava ( 19 ) ; feed ( 17 ) AND theme ( 17 , 26 ) AND recipient ( 17 , 8 ) AND agent ( 17 , 19 )	in_distribution
+A potato was pierced by Emma .	potato ( 13 ) ; Emma ( 18 ) ; pierce ( 20 ) AND theme ( 20 , 13 ) AND agent ( 20 , 18 )	in_distribution
+Daniel was given a cookie beside the book by the child .	Daniel ( 51 ) ; cookie ( 25 ) ; * book ( 36 ) ; * child ( 18 ) ; give ( 39 ) AND recipient ( 39 , 51 ) AND theme ( 39 , 25 ) AND agent ( 39 , 18 ) AND nmod . beside ( 25 , 36 )	in_distribution
+Jackson supported that a girl was lended the cake .	Jackson ( 43 ) ; girl ( 34 ) ; * cake ( 28 ) ; support ( 35 ) AND agent ( 35 , 43 ) AND ccomp ( 35 , 18 ) AND lend ( 18 ) AND recipient ( 18 , 34 ) AND theme ( 18 , 28 )	in_distribution
+A dog rolled Isaac .	dog ( 39 ) ; Isaac ( 23 ) ; roll ( 14 ) AND agent ( 14 , 39 ) AND theme ( 14 , 23 )	in_distribution
+A weapon was liked by Isabella .	weapon ( 1 ) ; Isabella ( 47 ) ; like ( 42 ) AND theme ( 42 , 1 ) AND agent ( 42 , 47 )	in_distribution
+The cake was given to Layla .	* cake ( 5 ) ; Layla ( 12 ) ; give ( 51 ) AND theme ( 51 , 5 ) AND recipient ( 51 , 12 )	in_distribution
+A boy sold a buyer the cookie beside a bed .	boy ( 20 ) ; buyer ( 34 ) ; * cookie ( 45 ) ; bed ( 12 ) ; sell ( 24 ) AND agent ( 24 , 20 ) AND recipient ( 24 , 34 ) AND theme ( 24 , 45 ) AND nmod . beside ( 45 , 12 )	in_distribution
+The jigsaw was given to a girl by Evelyn .	* jigsaw ( 3 ) ; girl ( 10 ) ; Evelyn ( 18 ) ; give ( 41 ) AND theme ( 41 , 3 ) AND recipient ( 41 , 10 ) AND agent ( 41 , 18 )	in_distribution
+Emma was given the cake beside a road .	Emma ( 5 ) ; * cake ( 48 ) ; road ( 51 ) ; give ( 16 ) AND recipient ( 16 , 5 ) AND theme ( 16 , 48 ) AND nmod . beside ( 48 , 51 )	in_distribution
+A dog studied a cake .	dog ( 22 ) ; cake ( 39 ) ; study ( 3 ) AND agent ( 3 , 22 ) AND theme ( 3 , 39 )	in_distribution
+Evelyn was given the cake on the stage .	Evelyn ( 16 ) ; * cake ( 56 ) ; * stage ( 41 ) ; give ( 46 ) AND recipient ( 46 , 16 ) AND theme ( 46 , 56 ) AND nmod . on ( 56 , 41 )	in_distribution
+A giraffe sold Emma the cookie .	giraffe ( 8 ) ; Emma ( 33 ) ; * cookie ( 20 ) ; sell ( 51 ) AND agent ( 51 , 8 ) AND recipient ( 51 , 33 ) AND theme ( 51 , 20 )	in_distribution
+The cake was given to a child by a girl .	* cake ( 4 ) ; child ( 31 ) ; girl ( 54 ) ; give ( 0 ) AND theme ( 0 , 4 ) AND recipient ( 0 , 31 ) AND agent ( 0 , 54 )	in_distribution
+A cake was collapsed by a girl .	cake ( 45 ) ; girl ( 2 ) ; collapse ( 52 ) AND theme ( 52 , 45 ) AND agent ( 52 , 2 )	in_distribution
+Lucas gave a girl a glue beside the bed .	Lucas ( 8 ) ; girl ( 17 ) ; glue ( 54 ) ; * bed ( 11 ) ; give ( 15 ) AND agent ( 15 , 8 ) AND recipient ( 15 , 17 ) AND theme ( 15 , 54 ) AND nmod . beside ( 54 , 11 )	in_distribution
+The box was eaten by a boy .	* box ( 15 ) ; boy ( 48 ) ; eat ( 0 ) AND theme ( 0 , 15 ) AND agent ( 0 , 48 )	in_distribution
+Emma ate the crystal .	Emma ( 2 ) ; * crystal ( 23 ) ; eat ( 36 ) AND agent ( 36 , 2 ) AND theme ( 36 , 23 )	in_distribution
+Dylan heard .	Dylan ( 38 ) ; hear ( 46 ) AND agent ( 46 , 38 )	in_distribution
+A professor frowned .	professor ( 2 ) ; frown ( 20 ) AND agent ( 20 , 2 )	in_distribution
+Natalie gave the raisin to the butterfly .	Natalie ( 45 ) ; * raisin ( 18 ) ; * butterfly ( 52 ) ; give ( 6 ) AND agent ( 6 , 45 ) AND theme ( 6 , 18 ) AND recipient ( 6 , 52 )	in_distribution
+A donkey lended a cake to Isaac .	donkey ( 49 ) ; cake ( 22 ) ; Isaac ( 21 ) ; lend ( 1 ) AND agent ( 1 , 49 ) AND theme ( 1 , 22 ) AND recipient ( 1 , 21 )	in_distribution
+A dog appreciated that Mason was given the rose in a china on the road by William .	dog ( 17 ) ; Mason ( 37 ) ; * rose ( 1 ) ; china ( 15 ) ; * road ( 38 ) ; William ( 10 ) ; appreciate ( 18 ) AND agent ( 18 , 17 ) AND ccomp ( 18 , 51 ) AND give ( 51 ) AND recipient ( 51 , 37 ) AND theme ( 51 , 1 ) AND agent ( 51 , 10 ) AND nmod . in ( 1 , 15 ) AND nmod . on ( 15 , 38 )	in_distribution
+The hammer was drawn by a boy .	* hammer ( 39 ) ; boy ( 12 ) ; draw ( 49 ) AND theme ( 49 , 39 ) AND agent ( 49 , 12 )	in_distribution
+The cake was mailed to Olivia by a girl .	* cake ( 23 ) ; Olivia ( 30 ) ; girl ( 6 ) ; mail ( 28 ) AND theme ( 28 , 23 ) AND recipient ( 28 , 30 ) AND agent ( 28 , 6 )	in_distribution
+Liam ate a girl on the stage .	Liam ( 13 ) ; girl ( 39 ) ; * stage ( 48 ) ; eat ( 9 ) AND agent ( 9 , 13 ) AND theme ( 9 , 39 ) AND nmod . on ( 39 , 48 )	in_distribution
+Emma liked a game on the table .	Emma ( 32 ) ; game ( 5 ) ; * table ( 3 ) ; like ( 22 ) AND agent ( 22 , 32 ) AND theme ( 22 , 5 ) AND nmod . on ( 5 , 3 )	in_distribution
+Ethan nursed a glue on the tree .	Ethan ( 34 ) ; glue ( 5 ) ; * tree ( 33 ) ; nurse ( 49 ) AND agent ( 49 , 34 ) AND theme ( 49 , 5 ) AND nmod . on ( 5 , 33 )	in_distribution
+The cake was frozen by a dog .	* cake ( 16 ) ; dog ( 30 ) ; freeze ( 19 ) AND theme ( 19 , 16 ) AND agent ( 19 , 30 )	in_distribution
+A baby supported that the dog cleaned .	baby ( 49 ) ; * dog ( 15 ) ; support ( 52 ) AND agent ( 52 , 49 ) AND ccomp ( 52 , 7 ) AND clean ( 7 ) AND agent ( 7 , 15 )	in_distribution
+Emma served a shirt in a room to a girl .	Emma ( 9 ) ; shirt ( 16 ) ; room ( 6 ) ; girl ( 10 ) ; serve ( 11 ) AND agent ( 11 , 9 ) AND theme ( 11 , 16 ) AND recipient ( 11 , 10 ) AND nmod . in ( 16 , 6 )	in_distribution
+Henry attempted to sneeze .	Henry ( 6 ) ; attempt ( 3 ) AND agent ( 3 , 6 ) AND xcomp ( 3 , 15 ) AND sneeze ( 15 ) AND agent ( 15 , 6 )	in_distribution
+The brick was offered to Julian by Logan .	* brick ( 6 ) ; Julian ( 35 ) ; Logan ( 36 ) ; offer ( 45 ) AND theme ( 45 , 6 ) AND recipient ( 45 , 35 ) AND agent ( 45 , 36 )	in_distribution
+A cookie was pierced by Lily .	cookie ( 9 ) ; Lily ( 35 ) ; pierce ( 44 ) AND theme ( 44 , 9 ) AND agent ( 44 , 35 )	in_distribution
+The cat expected that a balloon was snapped by a boy .	* cat ( 44 ) ; balloon ( 13 ) ; boy ( 41 ) ; expect ( 2 ) AND agent ( 2 , 44 ) AND ccomp ( 2 , 48 ) AND snap ( 48 ) AND theme ( 48 , 13 ) AND agent ( 48 , 41 )	in_distribution
+A boy hoped that a girl expected that Emma improved the teacher .	boy ( 51 ) ; girl ( 39 ) ; Emma ( 45 ) ; * teacher ( 15 ) ; hope ( 40 ) AND agent ( 40 , 51 ) AND ccomp ( 40 , 38 ) AND expect ( 38 ) AND agent ( 38 , 39 ) AND ccomp ( 38 , 22 ) AND improve ( 22 ) AND agent ( 22 , 45 ) AND theme ( 22 , 15 )	in_distribution
+The cake was given to a boy .	* cake ( 5 ) ; boy ( 10 ) ; give ( 22 ) AND theme ( 22 , 5 ) AND recipient ( 22 , 10 )	in_distribution
+The raisin was lended to Anthony by Oliver .	* raisin ( 35 ) ; Anthony ( 48 ) ; Oliver ( 25 ) ; lend ( 47 ) AND theme ( 47 , 35 ) AND recipient ( 47 , 48 ) AND agent ( 47 , 25 )	in_distribution
+A brain was lended to Emma .	brain ( 38 ) ; Emma ( 22 ) ; lend ( 59 ) AND theme ( 59 , 38 ) AND recipient ( 59 , 22 )	in_distribution
+The cake was awarded to a girl by Emma .	* cake ( 53 ) ; girl ( 31 ) ; Emma ( 39 ) ; award ( 52 ) AND theme ( 52 , 53 ) AND recipient ( 52 , 31 ) AND agent ( 52 , 39 )	in_distribution
+A cat wanted to smirk .	cat ( 38 ) ; want ( 11 ) AND agent ( 11 , 38 ) AND xcomp ( 11 , 22 ) AND smirk ( 22 ) AND agent ( 22 , 38 )	in_distribution
+The donut was adored by the girl .	* donut ( 39 ) ; * girl ( 2 ) ; adore ( 17 ) AND theme ( 17 , 39 ) AND agent ( 17 , 2 )	in_distribution
+The plant was hunted by a creature .	* plant ( 24 ) ; creature ( 7 ) ; hunt ( 5 ) AND theme ( 5 , 24 ) AND agent ( 5 , 7 )	in_distribution
+The donkey rolled .	* donkey ( 1 ) ; roll ( 26 ) AND theme ( 26 , 1 )	in_distribution
+A baby liked a child in a sack .	baby ( 32 ) ; child ( 7 ) ; sack ( 19 ) ; like ( 5 ) AND agent ( 5 , 32 ) AND theme ( 5 , 7 ) AND nmod . in ( 7 , 19 )	in_distribution
+Abigail burned the girl .	Abigail ( 59 ) ; * girl ( 47 ) ; burn ( 5 ) AND agent ( 5 , 59 ) AND theme ( 5 , 47 )	in_distribution
+A cake was given to a cat .	cake ( 18 ) ; cat ( 39 ) ; give ( 2 ) AND theme ( 2 , 18 ) AND recipient ( 2 , 39 )	in_distribution
+Owen painted a professor on the stool .	Owen ( 46 ) ; professor ( 11 ) ; * stool ( 18 ) ; paint ( 27 ) AND agent ( 27 , 46 ) AND theme ( 27 , 11 ) AND nmod . on ( 11 , 18 )	in_distribution
+Grayson gave Noah a cake .	Grayson ( 54 ) ; Noah ( 29 ) ; cake ( 26 ) ; give ( 56 ) AND agent ( 56 , 54 ) AND recipient ( 56 , 29 ) AND theme ( 56 , 26 )	in_distribution
+The brush was appreciated by a cat .	* brush ( 7 ) ; cat ( 29 ) ; appreciate ( 52 ) AND theme ( 52 , 7 ) AND agent ( 52 , 29 )	in_distribution
+A shirt was given to Ella .	shirt ( 42 ) ; Ella ( 13 ) ; give ( 24 ) AND theme ( 24 , 42 ) AND recipient ( 24 , 13 )	in_distribution
+The cake was given to a researcher by a baby .	* cake ( 17 ) ; researcher ( 49 ) ; baby ( 44 ) ; give ( 6 ) AND theme ( 6 , 17 ) AND recipient ( 6 , 49 ) AND agent ( 6 , 44 )	in_distribution
+Emma preferred to run .	Emma ( 0 ) ; prefer ( 49 ) AND agent ( 49 , 0 ) AND xcomp ( 49 , 30 ) AND run ( 30 ) AND agent ( 30 , 0 )	in_distribution
+The boy hoped that Liam needed to jog .	* boy ( 26 ) ; Liam ( 15 ) ; hope ( 3 ) AND agent ( 3 , 26 ) AND ccomp ( 3 , 8 ) AND need ( 8 ) AND agent ( 8 , 15 ) AND xcomp ( 8 , 48 ) AND jog ( 48 ) AND agent ( 48 , 15 )	in_distribution
+The girl handed the child a donut beside a surgeon .	* girl ( 4 ) ; * child ( 2 ) ; donut ( 29 ) ; surgeon ( 54 ) ; hand ( 43 ) AND agent ( 43 , 4 ) AND recipient ( 43 , 2 ) AND theme ( 43 , 29 ) AND nmod . beside ( 29 , 54 )	in_distribution
+The raisin was grown .	* raisin ( 7 ) ; grow ( 40 ) AND theme ( 40 , 7 )	in_distribution
+The teacher liked a boy .	* teacher ( 4 ) ; boy ( 24 ) ; like ( 9 ) AND agent ( 9 , 4 ) AND theme ( 9 , 24 )	in_distribution
+Emma sold a cake to a mother .	Emma ( 17 ) ; cake ( 50 ) ; mother ( 19 ) ; sell ( 12 ) AND agent ( 12 , 17 ) AND theme ( 12 , 50 ) AND recipient ( 12 , 19 )	in_distribution
+The deer scoffed .	* deer ( 41 ) ; scoff ( 29 ) AND agent ( 29 , 41 )	in_distribution
+The girl liked that the towel froze .	* girl ( 40 ) ; * towel ( 32 ) ; like ( 51 ) AND agent ( 51 , 40 ) AND ccomp ( 51 , 11 ) AND freeze ( 11 ) AND theme ( 11 , 32 )	in_distribution
+The cat was lended the drink .	* cat ( 19 ) ; * drink ( 9 ) ; lend ( 13 ) AND recipient ( 13 , 19 ) AND theme ( 13 , 9 )	in_distribution
+Emma was given the drink on the box .	Emma ( 31 ) ; * drink ( 15 ) ; * box ( 48 ) ; give ( 30 ) AND recipient ( 30 , 31 ) AND theme ( 30 , 15 ) AND nmod . on ( 15 , 48 )	in_distribution
+Jaxon noticed that a student wanted to jog .	Jaxon ( 11 ) ; student ( 8 ) ; notice ( 21 ) AND agent ( 21 , 11 ) AND ccomp ( 21 , 24 ) AND want ( 24 ) AND agent ( 24 , 8 ) AND xcomp ( 24 , 50 ) AND jog ( 50 ) AND agent ( 50 , 8 )	in_distribution
+The child fed the cake to Emma .	* child ( 49 ) ; * cake ( 10 ) ; Emma ( 35 ) ; feed ( 18 ) AND agent ( 18 , 49 ) AND theme ( 18 , 10 ) AND recipient ( 18 , 35 )	in_distribution
+The donut was eaten by the hero .	* donut ( 50 ) ; * hero ( 5 ) ; eat ( 53 ) AND theme ( 53 , 50 ) AND agent ( 53 , 5 )	in_distribution
+A girl fed the frog the weapon .	girl ( 38 ) ; * frog ( 7 ) ; * weapon ( 1 ) ; feed ( 5 ) AND agent ( 5 , 38 ) AND recipient ( 5 , 7 ) AND theme ( 5 , 1 )	in_distribution
+A butterfly liked that a cake was crumpled .	butterfly ( 8 ) ; cake ( 53 ) ; like ( 18 ) AND agent ( 18 , 8 ) AND ccomp ( 18 , 16 ) AND crumple ( 16 ) AND theme ( 16 , 53 )	in_distribution
+Emma gave the raisin to Leah .	Emma ( 24 ) ; * raisin ( 34 ) ; Leah ( 5 ) ; give ( 25 ) AND agent ( 25 , 24 ) AND theme ( 25 , 34 ) AND recipient ( 25 , 5 )	in_distribution
+The cake was investigated .	* cake ( 47 ) ; investigate ( 53 ) AND theme ( 53 , 47 )	in_distribution
+Jack liked that a donut was missed .	Jack ( 34 ) ; donut ( 56 ) ; like ( 4 ) AND agent ( 4 , 34 ) AND ccomp ( 4 , 11 ) AND miss ( 11 ) AND theme ( 11 , 56 )	in_distribution
+Charlotte painted .	Charlotte ( 56 ) ; paint ( 22 ) AND agent ( 22 , 56 )	in_distribution
+Emma rolled a donut .	Emma ( 7 ) ; donut ( 38 ) ; roll ( 9 ) AND agent ( 9 , 7 ) AND theme ( 9 , 38 )	in_distribution
+A president intended to cook .	president ( 18 ) ; intend ( 26 ) AND agent ( 26 , 18 ) AND xcomp ( 26 , 35 ) AND cook ( 35 ) AND agent ( 35 , 18 )	in_distribution
+Jayden liked that Emma drew the cookie on the table .	Jayden ( 5 ) ; Emma ( 53 ) ; * cookie ( 15 ) ; * table ( 54 ) ; like ( 36 ) AND agent ( 36 , 5 ) AND ccomp ( 36 , 1 ) AND draw ( 1 ) AND agent ( 1 , 53 ) AND theme ( 1 , 15 ) AND nmod . on ( 15 , 54 )	in_distribution
+The cookie was given to Noah by the girl .	* cookie ( 52 ) ; Noah ( 14 ) ; * girl ( 41 ) ; give ( 45 ) AND theme ( 45 , 52 ) AND recipient ( 45 , 14 ) AND agent ( 45 , 41 )	in_distribution
+A cake was lended to a cat .	cake ( 21 ) ; cat ( 5 ) ; lend ( 54 ) AND theme ( 54 , 21 ) AND recipient ( 54 , 5 )	in_distribution
+The bean was given to Victoria by a girl .	* bean ( 19 ) ; Victoria ( 36 ) ; girl ( 40 ) ; give ( 52 ) AND theme ( 52 , 19 ) AND recipient ( 52 , 36 ) AND agent ( 52 , 40 )	in_distribution
+Mia declared that a present was rolled by Harper .	Mia ( 25 ) ; present ( 40 ) ; Harper ( 44 ) ; declare ( 39 ) AND agent ( 39 , 25 ) AND ccomp ( 39 , 28 ) AND roll ( 28 ) AND theme ( 28 , 40 ) AND agent ( 28 , 44 )	in_distribution
+Emma wired the duck the cake in the condo .	Emma ( 38 ) ; * duck ( 50 ) ; * cake ( 49 ) ; * condo ( 25 ) ; wire ( 2 ) AND agent ( 2 , 38 ) AND recipient ( 2 , 50 ) AND theme ( 2 , 49 ) AND nmod . in ( 49 , 25 )	in_distribution
+A professor sketched Isabella .	professor ( 5 ) ; Isabella ( 42 ) ; sketch ( 41 ) AND agent ( 41 , 5 ) AND theme ( 41 , 42 )	in_distribution
+A girl helped the cake beside the bin .	girl ( 43 ) ; * cake ( 18 ) ; * bin ( 29 ) ; help ( 22 ) AND agent ( 22 , 43 ) AND theme ( 22 , 18 ) AND nmod . beside ( 18 , 29 )	in_distribution
+Olivia lended the bag on a cookie to the prisoner .	Olivia ( 45 ) ; * bag ( 8 ) ; cookie ( 5 ) ; * prisoner ( 27 ) ; lend ( 20 ) AND agent ( 20 , 45 ) AND theme ( 20 , 8 ) AND recipient ( 20 , 27 ) AND nmod . on ( 8 , 5 )	in_distribution
+The cake was liked by the duck .	* cake ( 20 ) ; * duck ( 56 ) ; like ( 7 ) AND theme ( 7 , 20 ) AND agent ( 7 , 56 )	in_distribution
+Emma was given a strawberry on the table by the mouse .	Emma ( 6 ) ; strawberry ( 17 ) ; * table ( 29 ) ; * mouse ( 45 ) ; give ( 48 ) AND recipient ( 48 , 6 ) AND theme ( 48 , 17 ) AND agent ( 48 , 45 ) AND nmod . on ( 17 , 29 )	in_distribution
+The journalist noticed that a bat was eaten by Emma .	* journalist ( 39 ) ; bat ( 41 ) ; Emma ( 51 ) ; notice ( 48 ) AND agent ( 48 , 39 ) AND ccomp ( 48 , 12 ) AND eat ( 12 ) AND theme ( 12 , 41 ) AND agent ( 12 , 51 )	in_distribution
+A mouse gave a rose to Savannah .	mouse ( 18 ) ; rose ( 25 ) ; Savannah ( 47 ) ; give ( 31 ) AND agent ( 31 , 18 ) AND theme ( 31 , 25 ) AND recipient ( 31 , 47 )	in_distribution
+Liam was lended the donut by a friend .	Liam ( 59 ) ; * donut ( 37 ) ; friend ( 35 ) ; lend ( 19 ) AND recipient ( 19 , 59 ) AND theme ( 19 , 37 ) AND agent ( 19 , 35 )	in_distribution
+A donut was lended to Isabella by Noah .	donut ( 12 ) ; Isabella ( 51 ) ; Noah ( 29 ) ; lend ( 52 ) AND theme ( 52 , 12 ) AND recipient ( 52 , 51 ) AND agent ( 52 , 29 )	in_distribution
+The knife was helped by Sebastian .	* knife ( 3 ) ; Sebastian ( 56 ) ; help ( 59 ) AND theme ( 59 , 3 ) AND agent ( 59 , 56 )	in_distribution
+Elijah tried to talk .	Elijah ( 32 ) ; try ( 38 ) AND agent ( 38 , 32 ) AND xcomp ( 38 , 16 ) AND talk ( 16 ) AND agent ( 16 , 32 )	in_distribution
+A boy craved to run .	boy ( 49 ) ; crave ( 23 ) AND agent ( 23 , 49 ) AND xcomp ( 23 , 14 ) AND run ( 14 ) AND agent ( 14 , 49 )	in_distribution
+A spoon was rolled by the girl .	spoon ( 17 ) ; * girl ( 59 ) ; roll ( 6 ) AND theme ( 6 , 17 ) AND agent ( 6 , 59 )	in_distribution
+Olivia declared that William was offered the knife on a book .	Olivia ( 53 ) ; William ( 43 ) ; * knife ( 42 ) ; book ( 33 ) ; declare ( 46 ) AND agent ( 46 , 53 ) AND ccomp ( 46 , 16 ) AND offer ( 16 ) AND recipient ( 16 , 43 ) AND theme ( 16 , 42 ) AND nmod . on ( 42 , 33 )	in_distribution
+A butterfly ate Charlotte .	butterfly ( 38 ) ; Charlotte ( 16 ) ; eat ( 44 ) AND agent ( 44 , 38 ) AND theme ( 44 , 16 )	in_distribution
+Olivia split a boy beside a road .	Olivia ( 35 ) ; boy ( 22 ) ; road ( 53 ) ; split ( 13 ) AND agent ( 13 , 35 ) AND theme ( 13 , 22 ) AND nmod . beside ( 22 , 53 )	in_distribution
+A cake was rolled by a girl .	cake ( 41 ) ; girl ( 9 ) ; roll ( 46 ) AND theme ( 46 , 41 ) AND agent ( 46 , 9 )	in_distribution
+Emma said that the cake was eaten by Chloe .	Emma ( 3 ) ; * cake ( 39 ) ; Chloe ( 22 ) ; say ( 43 ) AND agent ( 43 , 3 ) AND ccomp ( 43 , 9 ) AND eat ( 9 ) AND theme ( 9 , 39 ) AND agent ( 9 , 22 )	in_distribution
+The hamburger was painted .	* hamburger ( 13 ) ; paint ( 56 ) AND theme ( 56 , 13 )	in_distribution
+The butterfly napped .	* butterfly ( 21 ) ; nap ( 7 ) AND agent ( 7 , 21 )	in_distribution
+A bear said that a cake rolled .	bear ( 17 ) ; cake ( 59 ) ; say ( 33 ) AND agent ( 33 , 17 ) AND ccomp ( 33 , 1 ) AND roll ( 1 ) AND theme ( 1 , 59 )	in_distribution
+Emma sent the girl a cake .	Emma ( 9 ) ; * girl ( 24 ) ; cake ( 26 ) ; send ( 23 ) AND agent ( 23 , 9 ) AND recipient ( 23 , 24 ) AND theme ( 23 , 26 )	in_distribution
+Elizabeth noticed that the donut was helped by a deer .	Elizabeth ( 10 ) ; * donut ( 36 ) ; deer ( 9 ) ; notice ( 35 ) AND agent ( 35 , 10 ) AND ccomp ( 35 , 3 ) AND help ( 3 ) AND theme ( 3 , 36 ) AND agent ( 3 , 9 )	in_distribution
+A lollipop was helped .	lollipop ( 2 ) ; help ( 30 ) AND theme ( 30 , 2 )	in_distribution
+David wished that the child ate Emma .	David ( 22 ) ; * child ( 45 ) ; Emma ( 4 ) ; wish ( 33 ) AND agent ( 33 , 22 ) AND ccomp ( 33 , 1 ) AND eat ( 1 ) AND agent ( 1 , 45 ) AND theme ( 1 , 4 )	in_distribution
+A ball was frozen .	ball ( 51 ) ; freeze ( 21 ) AND theme ( 21 , 51 )	in_distribution
+Oliver was given a cake beside a stage .	Oliver ( 31 ) ; cake ( 53 ) ; stage ( 9 ) ; give ( 39 ) AND recipient ( 39 , 31 ) AND theme ( 39 , 53 ) AND nmod . beside ( 53 , 9 )	in_distribution
+A soap was liked .	soap ( 35 ) ; like ( 5 ) AND theme ( 5 , 35 )	in_distribution
+Sophia ran .	Sophia ( 52 ) ; run ( 41 ) AND agent ( 41 , 52 )	in_distribution
+A monster hated to talk .	monster ( 29 ) ; hate ( 59 ) AND agent ( 59 , 29 ) AND xcomp ( 59 , 32 ) AND talk ( 32 ) AND agent ( 32 , 29 )	in_distribution
+The girl slid the patient beside the table .	* girl ( 21 ) ; * patient ( 5 ) ; * table ( 53 ) ; slide ( 46 ) AND agent ( 46 , 21 ) AND theme ( 46 , 5 ) AND nmod . beside ( 5 , 53 )	in_distribution
+Sophia was handed a strawberry on a sofa in the garden by Liam .	Sophia ( 41 ) ; strawberry ( 49 ) ; sofa ( 9 ) ; * garden ( 20 ) ; Liam ( 2 ) ; hand ( 59 ) AND recipient ( 59 , 41 ) AND theme ( 59 , 49 ) AND agent ( 59 , 2 ) AND nmod . on ( 49 , 9 ) AND nmod . in ( 9 , 20 )	in_distribution
+The cookie was discovered by the girl .	* cookie ( 21 ) ; * girl ( 42 ) ; discover ( 6 ) AND theme ( 6 , 21 ) AND agent ( 6 , 42 )	in_distribution
+A customer was served a toy beside the table by a boy .	customer ( 21 ) ; toy ( 38 ) ; * table ( 32 ) ; boy ( 37 ) ; serve ( 41 ) AND recipient ( 41 , 21 ) AND theme ( 41 , 38 ) AND agent ( 41 , 37 ) AND nmod . beside ( 38 , 32 )	in_distribution
+A cat gave the cake beside the table to Emma .	cat ( 49 ) ; * cake ( 27 ) ; * table ( 43 ) ; Emma ( 45 ) ; give ( 25 ) AND agent ( 25 , 49 ) AND theme ( 25 , 27 ) AND recipient ( 25 , 45 ) AND nmod . beside ( 27 , 43 )	in_distribution
+Layla painted James .	Layla ( 53 ) ; James ( 37 ) ; paint ( 38 ) AND agent ( 38 , 53 ) AND theme ( 38 , 37 )	in_distribution
+Noah offered a drink on the desk on the stool to a child .	Noah ( 13 ) ; drink ( 52 ) ; * desk ( 48 ) ; * stool ( 11 ) ; child ( 34 ) ; offer ( 18 ) AND agent ( 18 , 13 ) AND theme ( 18 , 52 ) AND recipient ( 18 , 34 ) AND nmod . on ( 52 , 48 ) AND nmod . on ( 48 , 11 )	in_distribution
+The hat was fed to Sophia .	* hat ( 13 ) ; Sophia ( 32 ) ; feed ( 5 ) AND theme ( 5 , 13 ) AND recipient ( 5 , 32 )	in_distribution
+Harper slept .	Harper ( 22 ) ; sleep ( 26 ) AND agent ( 26 , 22 )	in_distribution
+The donut was known by William .	* donut ( 52 ) ; William ( 16 ) ; know ( 53 ) AND theme ( 53 , 52 ) AND agent ( 53 , 16 )	in_distribution
+A cake was sketched by Liam .	cake ( 17 ) ; Liam ( 29 ) ; sketch ( 13 ) AND theme ( 13 , 17 ) AND agent ( 13 , 29 )	in_distribution
+The rose was rolled by a bee .	* rose ( 6 ) ; bee ( 37 ) ; roll ( 29 ) AND theme ( 29 , 6 ) AND agent ( 29 , 37 )	in_distribution
+Noah liked that a wine was liked .	Noah ( 44 ) ; wine ( 52 ) ; like ( 54 ) AND agent ( 54 , 44 ) AND ccomp ( 54 , 41 ) AND like ( 41 ) AND theme ( 41 , 52 )	in_distribution
+Lincoln was loaned a cloud .	Lincoln ( 15 ) ; cloud ( 56 ) ; loan ( 20 ) AND recipient ( 20 , 15 ) AND theme ( 20 , 56 )	in_distribution
+Dylan was sold a rose beside the house by a tiger .	Dylan ( 50 ) ; rose ( 29 ) ; * house ( 13 ) ; tiger ( 25 ) ; sell ( 0 ) AND recipient ( 0 , 50 ) AND theme ( 0 , 29 ) AND agent ( 0 , 25 ) AND nmod . beside ( 29 , 13 )	in_distribution
+A plate was liked by Emma .	plate ( 20 ) ; Emma ( 38 ) ; like ( 18 ) AND theme ( 18 , 20 ) AND agent ( 18 , 38 )	in_distribution
+Olivia was handed a strawberry .	Olivia ( 9 ) ; strawberry ( 16 ) ; hand ( 27 ) AND recipient ( 27 , 9 ) AND theme ( 27 , 16 )	in_distribution
+A donut was loved by the boy .	donut ( 49 ) ; * boy ( 27 ) ; love ( 21 ) AND theme ( 21 , 49 ) AND agent ( 21 , 27 )	in_distribution
+A banana was burned .	banana ( 1 ) ; burn ( 13 ) AND theme ( 13 , 1 )	in_distribution
+Caleb tried to walk .	Caleb ( 12 ) ; try ( 31 ) AND agent ( 31 , 12 ) AND xcomp ( 31 , 19 ) AND walk ( 19 ) AND agent ( 19 , 12 )	in_distribution
+Liam smiled .	Liam ( 32 ) ; smile ( 33 ) AND agent ( 33 , 32 )	in_distribution
+The ball was loaned to a guy .	* ball ( 36 ) ; guy ( 8 ) ; loan ( 7 ) AND theme ( 7 , 36 ) AND recipient ( 7 , 8 )	in_distribution
+Charlotte painted the girl .	Charlotte ( 10 ) ; * girl ( 16 ) ; paint ( 48 ) AND agent ( 48 , 10 ) AND theme ( 48 , 16 )	in_distribution
+A sandwich was promised to Jackson by a manager .	sandwich ( 37 ) ; Jackson ( 53 ) ; manager ( 31 ) ; promise ( 13 ) AND theme ( 13 , 37 ) AND recipient ( 13 , 53 ) AND agent ( 13 , 31 )	in_distribution
+The moose was fed a donut beside the helicopter by a cat .	* moose ( 13 ) ; donut ( 14 ) ; * helicopter ( 28 ) ; cat ( 2 ) ; feed ( 19 ) AND recipient ( 19 , 13 ) AND theme ( 19 , 14 ) AND agent ( 19 , 2 ) AND nmod . beside ( 14 , 28 )	in_distribution
+The chemical was floated by William .	* chemical ( 17 ) ; William ( 10 ) ; float ( 33 ) AND theme ( 33 , 17 ) AND agent ( 33 , 10 )	in_distribution
+Emma lended a girl a bucket beside a road .	Emma ( 59 ) ; girl ( 49 ) ; bucket ( 54 ) ; road ( 12 ) ; lend ( 36 ) AND agent ( 36 , 59 ) AND recipient ( 36 , 49 ) AND theme ( 36 , 54 ) AND nmod . beside ( 54 , 12 )	in_distribution
+The girl liked a cookie in a bag .	* girl ( 37 ) ; cookie ( 33 ) ; bag ( 49 ) ; like ( 29 ) AND agent ( 29 , 37 ) AND theme ( 29 , 33 ) AND nmod . in ( 33 , 49 )	in_distribution
+A crocodile was lended the cookie by Emma .	crocodile ( 3 ) ; * cookie ( 25 ) ; Emma ( 43 ) ; lend ( 31 ) AND recipient ( 31 , 3 ) AND theme ( 31 , 25 ) AND agent ( 31 , 43 )	in_distribution
+Amelia frowned .	Amelia ( 0 ) ; frown ( 30 ) AND agent ( 30 , 0 )	in_distribution
+Liam cooked the boy .	Liam ( 48 ) ; * boy ( 20 ) ; cook ( 0 ) AND agent ( 0 , 48 ) AND theme ( 0 , 20 )	in_distribution
+The prisoner respected that a girl smiled .	* prisoner ( 24 ) ; girl ( 22 ) ; respect ( 47 ) AND agent ( 47 , 24 ) AND ccomp ( 47 , 34 ) AND smile ( 34 ) AND agent ( 34 , 22 )	in_distribution
+The turtle wanted to jog .	* turtle ( 43 ) ; want ( 4 ) AND agent ( 4 , 43 ) AND xcomp ( 4 , 2 ) AND jog ( 2 ) AND agent ( 2 , 43 )	in_distribution
+The plant was split by the butterfly .	* plant ( 50 ) ; * butterfly ( 17 ) ; split ( 56 ) AND theme ( 56 , 50 ) AND agent ( 56 , 17 )	in_distribution
+Liam shortened Noah .	Liam ( 46 ) ; Noah ( 12 ) ; shorten ( 13 ) AND agent ( 13 , 46 ) AND theme ( 13 , 12 )	in_distribution
+The cake was found by Isabella .	* cake ( 26 ) ; Isabella ( 8 ) ; find ( 51 ) AND theme ( 51 , 26 ) AND agent ( 51 , 8 )	in_distribution
+The cat valued that a cake was eaten .	* cat ( 20 ) ; cake ( 16 ) ; value ( 19 ) AND agent ( 19 , 20 ) AND ccomp ( 19 , 4 ) AND eat ( 4 ) AND theme ( 4 , 16 )	in_distribution
+Henry expected that William forwarded the girl the lollipop .	Henry ( 3 ) ; William ( 28 ) ; * girl ( 43 ) ; * lollipop ( 17 ) ; expect ( 20 ) AND agent ( 20 , 3 ) AND ccomp ( 20 , 32 ) AND forward ( 32 ) AND agent ( 32 , 28 ) AND recipient ( 32 , 43 ) AND theme ( 32 , 17 )	in_distribution
+A guitar was crumpled .	guitar ( 4 ) ; crumple ( 2 ) AND theme ( 2 , 4 )	in_distribution
+A cake was eaten by a girl .	cake ( 7 ) ; girl ( 6 ) ; eat ( 25 ) AND theme ( 25 , 7 ) AND agent ( 25 , 6 )	in_distribution
+The crayon was cooked by Emma .	* crayon ( 20 ) ; Emma ( 38 ) ; cook ( 31 ) AND theme ( 31 , 20 ) AND agent ( 31 , 38 )	in_distribution
+Michael rolled the donut in a house .	Michael ( 32 ) ; * donut ( 41 ) ; house ( 49 ) ; roll ( 51 ) AND agent ( 51 , 32 ) AND theme ( 51 , 41 ) AND nmod . in ( 41 , 49 )	in_distribution
+The cake was handed to Aiden by the boy .	* cake ( 56 ) ; Aiden ( 36 ) ; * boy ( 16 ) ; hand ( 50 ) AND theme ( 50 , 56 ) AND recipient ( 50 , 36 ) AND agent ( 50 , 16 )	in_distribution
+The potato was sold to the girl by Liam .	* potato ( 24 ) ; * girl ( 2 ) ; Liam ( 23 ) ; sell ( 47 ) AND theme ( 47 , 24 ) AND recipient ( 47 , 2 ) AND agent ( 47 , 23 )	in_distribution
+A girl gave a cat the rose .	girl ( 15 ) ; cat ( 34 ) ; * rose ( 33 ) ; give ( 27 ) AND agent ( 27 , 15 ) AND recipient ( 27 , 34 ) AND theme ( 27 , 33 )	in_distribution
+A hero ate .	hero ( 45 ) ; eat ( 7 ) AND agent ( 7 , 45 )	in_distribution
+The cake was heard by Liam .	* cake ( 45 ) ; Liam ( 33 ) ; hear ( 18 ) AND theme ( 18 , 45 ) AND agent ( 18 , 33 )	in_distribution
+Benjamin supported that Emma was offered a rose by the teacher .	Benjamin ( 24 ) ; Emma ( 56 ) ; rose ( 52 ) ; * teacher ( 40 ) ; support ( 10 ) AND agent ( 10 , 24 ) AND ccomp ( 10 , 0 ) AND offer ( 0 ) AND recipient ( 0 , 56 ) AND theme ( 0 , 52 ) AND agent ( 0 , 40 )	in_distribution
+Elijah intended to sneeze .	Elijah ( 52 ) ; intend ( 0 ) AND agent ( 0 , 52 ) AND xcomp ( 0 , 25 ) AND sneeze ( 25 ) AND agent ( 25 , 52 )	in_distribution
+The rose was missed by the girl .	* rose ( 18 ) ; * girl ( 45 ) ; miss ( 21 ) AND theme ( 21 , 18 ) AND agent ( 21 , 45 )	in_distribution
+A shoe was stabbed .	shoe ( 39 ) ; stab ( 28 ) AND theme ( 28 , 39 )	in_distribution
+Ava ate .	Ava ( 59 ) ; eat ( 43 ) AND agent ( 43 , 59 )	in_distribution
+The cake was collapsed .	* cake ( 6 ) ; collapse ( 23 ) AND theme ( 23 , 6 )	in_distribution
+A manager was given a sandwich .	manager ( 24 ) ; sandwich ( 34 ) ; give ( 18 ) AND recipient ( 18 , 24 ) AND theme ( 18 , 34 )	in_distribution
+The raisin was crumpled by the dog .	* raisin ( 9 ) ; * dog ( 44 ) ; crumple ( 39 ) AND theme ( 39 , 9 ) AND agent ( 39 , 44 )	in_distribution
+Emma respected the cake .	Emma ( 45 ) ; * cake ( 40 ) ; respect ( 21 ) AND agent ( 21 , 45 ) AND theme ( 21 , 40 )	in_distribution
+A jigsaw was sold to Liam by Sophia .	jigsaw ( 40 ) ; Liam ( 43 ) ; Sophia ( 53 ) ; sell ( 4 ) AND theme ( 4 , 40 ) AND recipient ( 4 , 43 ) AND agent ( 4 , 53 )	in_distribution
+A rose was improved by a boy .	rose ( 49 ) ; boy ( 33 ) ; improve ( 8 ) AND theme ( 8 , 49 ) AND agent ( 8 , 33 )	in_distribution
+Ava sent James a box on the table .	Ava ( 22 ) ; James ( 39 ) ; box ( 1 ) ; * table ( 44 ) ; send ( 8 ) AND agent ( 8 , 22 ) AND recipient ( 8 , 39 ) AND theme ( 8 , 1 ) AND nmod . on ( 1 , 44 )	in_distribution
+Liam cooked the cake .	Liam ( 29 ) ; * cake ( 30 ) ; cook ( 45 ) AND agent ( 45 , 29 ) AND theme ( 45 , 30 )	in_distribution
+The judge called .	* judge ( 52 ) ; call ( 12 ) AND agent ( 12 , 52 )	in_distribution
+The kitty lended a girl the drink in the box .	* kitty ( 10 ) ; girl ( 1 ) ; * drink ( 38 ) ; * box ( 29 ) ; lend ( 9 ) AND agent ( 9 , 10 ) AND recipient ( 9 , 1 ) AND theme ( 9 , 38 ) AND nmod . in ( 38 , 29 )	in_distribution
+A bee appreciated the girl on a table .	bee ( 14 ) ; * girl ( 16 ) ; table ( 3 ) ; appreciate ( 0 ) AND agent ( 0 , 14 ) AND theme ( 0 , 16 ) AND nmod . on ( 16 , 3 )	in_distribution
+A game was eaten by Oliver .	game ( 39 ) ; Oliver ( 11 ) ; eat ( 18 ) AND theme ( 18 , 39 ) AND agent ( 18 , 11 )	in_distribution
+A baby changed a girl .	baby ( 15 ) ; girl ( 42 ) ; change ( 40 ) AND agent ( 40 , 15 ) AND theme ( 40 , 42 )	in_distribution
+The giraffe laughed .	* giraffe ( 43 ) ; laugh ( 18 ) AND agent ( 18 , 43 )	in_distribution
+Sophia grew the drink on a computer beside the table .	Sophia ( 10 ) ; * drink ( 2 ) ; computer ( 53 ) ; * table ( 18 ) ; grow ( 44 ) AND agent ( 44 , 10 ) AND theme ( 44 , 2 ) AND nmod . on ( 2 , 53 ) AND nmod . beside ( 53 , 18 )	in_distribution
+The pancake was liked .	* pancake ( 23 ) ; like ( 54 ) AND theme ( 54 , 23 )	in_distribution
+Penelope yearned to walk .	Penelope ( 0 ) ; yearn ( 40 ) AND agent ( 40 , 0 ) AND xcomp ( 40 , 43 ) AND walk ( 43 ) AND agent ( 43 , 0 )	in_distribution
+A cat grew .	cat ( 54 ) ; grow ( 28 ) AND theme ( 28 , 54 )	in_distribution
+The sandwich was given to Hannah .	* sandwich ( 6 ) ; Hannah ( 10 ) ; give ( 9 ) AND theme ( 9 , 6 ) AND recipient ( 9 , 10 )	in_distribution
+A cake was promised to Olivia .	cake ( 0 ) ; Olivia ( 29 ) ; promise ( 24 ) AND theme ( 24 , 0 ) AND recipient ( 24 , 29 )	in_distribution
