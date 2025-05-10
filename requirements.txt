@@ -1,24 +1,17 @@
-numpy>=1.20.0
-scipy>=1.7.0
-matplotlib>=3.7.0
-scikit-learn>=1.0.2
-nltk>=3.7
-pytest>=7.1
-jupyter>=1.0.0
-pandas>=1.5
-# uncomment the following lines to install pytorch and torchvision
-# for Mac
-torch==2.6.0; sys_platform != "linux" and sys_platform != "win32"
-# for windows or linux
-# torch==2.6.0+${DEVICE}; sys_platform == "linux" or sys_platform == "win32"
-torchvision
-torchaudio
-transformers>=4.37
-datasets>=2.14.6
-spacy>=3.7.2
-colbert-ai>=0.2.20
-# pin down dspy-ai during the cohort
-dspy-ai==2.4.13
-python-dotenv
-wget
-openai==1.61.1
+certifi==2025.4.26
+charset-normalizer==3.4.1
+filelock==3.18.0
+fsspec==2025.3.2
+huggingface-hub==0.30.2
+idna==3.10
+numpy==2.2.5
+packaging==25.0
+PyYAML==6.0.2
+regex==2024.11.6
+requests==2.32.3
+safetensors==0.5.3
+tokenizers==0.21.1
+tqdm==4.67.1
+transformers==4.51.3
+typing_extensions==4.13.2
+urllib3==2.4.0
